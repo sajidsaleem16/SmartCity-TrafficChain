@@ -15,7 +15,7 @@ In smart cities, congestion data must remain tamper-proof, verifiable, and acces
 - **Frontend:** CLI-based API interface (extendable to mobile/web UI)
 - **Backend:** Python (Flask + Web3.py)
 - **Blockchain:** Solidity smart contract deployed via Truffle on Ganache (Ethereum testnet)
-- **OS Support:** macOS (M1) and Windows
+- **OS Support:** macOS and Windows
 - **Proposed Extension (Report Only):** Federated Learning to predict traffic hotspots without compromising local data privacy
 
 ---
